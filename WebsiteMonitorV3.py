@@ -17,7 +17,7 @@ tropo_token_up = "674c6d78776f697645704e6777636b6d56646b67637a4f5144496649574747
 tropo_url = "https://api.tropo.com/1.0/sessions?action=create&token="
 TestVariable = "Hello"
 print "HellO"       
-
+1
 def myfunc1():
     while True:
         for site in Client_Array:
