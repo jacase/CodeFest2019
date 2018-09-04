@@ -15,7 +15,8 @@ Temp_Client_Array =[]
 tropo_token_down = "594c69476d61706e52765947736e4b735053425a78725241634c7644646269595578626b724a4d534c544944"
 tropo_token_up = "674c6d78776f697645704e6777636b6d56646b67637a4f51444966495747474f7766686474536f5744676c52"
 tropo_url = "https://api.tropo.com/1.0/sessions?action=create&token="
-TestVariable = "Hello"           
+TestVariable = "Hello"
+print "HellO"       
 
 def myfunc1():
     while True:
